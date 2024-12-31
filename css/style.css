@@ -228,12 +228,19 @@ ul.address-text b {
     height: 32px;
 }
 .social a:hover {
-	border-color: #888;
-	opacity: .8;
+    border-color: #888;
+    opacity: 0.8;
 }
-.telegram a {background: #249bd7}
-.vk a {background: #4a76a8}
-.whatsapp a {background: #50b154}
+.telegram a {
+    background: #249bd7;
+}
+.vk a {
+    background: #4a76a8;
+}
+.whatsapp a {
+    background: #50b154;
+}
+
 /*-- wellcome-note --*/
 .welcome-note{
 	margin:3em 0;
