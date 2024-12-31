@@ -36,7 +36,6 @@ body h1,h2,h3,h4,h5,h6{
 }
 .logo h1 {
     margin: 0;
-    text-transform: uppercase;
     font-weight: bold;
      color:#fff;
 }
@@ -45,10 +44,10 @@ body h1,h2,h3,h4,h5,h6{
 	 color:#fff;
 }
 .logo span {
-    border: 7px solid #cf0404;
+    border-bottom: 3px solid #cf0404;
     padding: 0px 14px;
     font-size: 1.2em;
-    color: #fff;
+    color: #cf0404;
 }
 .logo{
 	float:left;
